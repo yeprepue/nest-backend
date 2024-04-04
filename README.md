@@ -31,6 +31,12 @@
 ```bash
 $ npm install
 ```
+#Backen en Nest
+```
+docker compose up -d
+```
+
+copiar el ```.env.template``` y renombrar el .env ```.env```
 
 ## Running the app
 
