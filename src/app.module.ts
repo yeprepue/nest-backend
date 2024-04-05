@@ -15,11 +15,11 @@ import { ConfigModule } from '@nestjs/config';
   providers: [],
 })
 export class AppModule {
-  
+
   // ver db
-//  constructor(){
-//   console.log(process.env)
-//  }
+  //  constructor(){
+  //   console.log(process.env)
+  //  }
 
 }
 
